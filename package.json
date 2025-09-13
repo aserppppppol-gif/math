@@ -6,10 +6,16 @@
   "scripts": {
     "start": "serve"
   },
-  "keywords": ["html", "css"],
+  "keywords": [
+    "html",
+    "css"
+  ],
   "author": "Ives van Hoorne",
   "license": "MIT",
   "devDependencies": {
     "serve": "11.2.0"
+  },
+  "dependencies": {
+    "firebase": "^12.2.1"
   }
 }
